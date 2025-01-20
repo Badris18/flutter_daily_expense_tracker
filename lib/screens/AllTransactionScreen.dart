@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'dart:convert';
-import 'package:flutter_daily_income_expense_tracker/models/Transaction.dart';
-import 'package:flutter_daily_income_expense_tracker/utils/Constants.dart';
+import 'package:flutter_daily_expense_tracker/models/Transaction.dart';
+import 'package:flutter_daily_expense_tracker/utils/Constants.dart';
 import 'package:http/http.dart' as http;
 
 import 'TransactionFormScreen.dart';
