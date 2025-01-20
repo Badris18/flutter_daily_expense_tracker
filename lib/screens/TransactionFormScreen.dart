@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_daily_income_expense_tracker/models/Transaction.dart';
+import 'package:flutter_daily_expense_tracker/models/Transaction.dart';
 import 'package:intl/intl.dart';
 import '../services/TransactionService.dart';
 
