@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_daily_income_expense_tracker/screens/ExpenseTransactionScreen.dart';
-import 'package:flutter_daily_income_expense_tracker/screens/IncomeTransactionScreen.dart';
-import 'package:flutter_daily_income_expense_tracker/screens/TransactionFormScreen.dart';
+import 'package:flutter_daily_expense_tracker/screens/ExpenseTransactionScreen.dart';
+import 'package:flutter_daily_expense_tracker/screens/IncomeTransactionScreen.dart';
+import 'package:flutter_daily_expense_tracker/screens/TransactionFormScreen.dart';
 
 import 'AllTransactionScreen.dart';
 
