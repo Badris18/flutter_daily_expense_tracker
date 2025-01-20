@@ -1,6 +1,6 @@
 class Constants  {
 
-  static const String BASE_URL = "http://192.168.1.211:8000/api";
+  static const String BASE_URL = "http:///192.168.0.113:8000/api";
 
   static const String ALL_TRANSACTION_ROUTE = "/transactions";
 
